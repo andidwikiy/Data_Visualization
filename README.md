@@ -2,10 +2,6 @@
 
 Hello, welcome to my data visualization project repository. You can find the file of my visualization project in the folder in this repo. Or, if you want to have a quick look you can go to my tableau profile➡️ [click this](https://public.tableau.com/app/profile/andidwikiy)
 
-Based on the provided image of your data visualization project, here's a description you can use:
-
----
-
 ## E-Commerce Performance Analysis
 
 ### Overview
@@ -56,12 +52,6 @@ This dashboard provides a comprehensive analysis of e-commerce performance, focu
 
 This dashboard is an effective tool for analyzing the performance of an e-commerce platform. By providing detailed visualizations of sales and revenue data, it helps stakeholders make informed decisions to drive business growth. The interactive filters and multiple views enable a tailored analysis, catering to specific needs and preferences.
 
----
-
-Based on the provided image of your British Airways review project, here's a description you can use:
-
----
-
 ## British Airways Review
 
 This dashboard provides an in-depth analysis of British Airways' cabin staff service, encompassing various traveler experiences and metrics over time.
@@ -78,6 +68,5 @@ This dashboard provides an in-depth analysis of British Airways' cabin staff ser
 
 This dashboard is a valuable tool for analyzing customer feedback on British Airways' cabin staff service, offering insights into performance across different regions, aircraft, and time periods to help improve passenger experience.
 
----
 
 
