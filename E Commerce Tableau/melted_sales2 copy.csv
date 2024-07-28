@@ -1,0 +1,253 @@
+,category,classification,month,sales
+0,Books,Regular,1,24291
+1,Books,Middle,1,28303
+2,Books,Luxury,1,25338
+3,Clothing,Regular,1,23849
+4,Clothing,Middle,1,22764
+5,Clothing,Luxury,1,14353
+6,Electronics,Regular,1,26983
+7,Electronics,Middle,1,28812
+8,Electronics,Luxury,1,20552
+9,Health,Regular,1,18679
+10,Health,Middle,1,26988
+11,Health,Luxury,1,21977
+12,Home & Kitchen,Regular,1,19154
+13,Home & Kitchen,Middle,1,21305
+14,Home & Kitchen,Luxury,1,17385
+15,Sports,Regular,1,23478
+16,Sports,Middle,1,33115
+17,Sports,Luxury,1,21144
+18,Toys,Regular,1,23855
+19,Toys,Middle,1,33244
+20,Toys,Luxury,1,22737
+21,Books,Regular,2,23226
+22,Books,Middle,2,32159
+23,Books,Luxury,2,24694
+24,Clothing,Regular,2,21298
+25,Clothing,Middle,2,28306
+26,Clothing,Luxury,2,18307
+27,Electronics,Regular,2,27672
+28,Electronics,Middle,2,24945
+29,Electronics,Luxury,2,19855
+30,Health,Regular,2,18543
+31,Health,Middle,2,27763
+32,Health,Luxury,2,21126
+33,Home & Kitchen,Regular,2,22899
+34,Home & Kitchen,Middle,2,18465
+35,Home & Kitchen,Luxury,2,15888
+36,Sports,Regular,2,20929
+37,Sports,Middle,2,36353
+38,Sports,Luxury,2,24962
+39,Toys,Regular,2,24087
+40,Toys,Middle,2,30810
+41,Toys,Luxury,2,25374
+42,Books,Regular,3,21633
+43,Books,Middle,3,30242
+44,Books,Luxury,3,25123
+45,Clothing,Regular,3,28260
+46,Clothing,Middle,3,30364
+47,Clothing,Luxury,3,18172
+48,Electronics,Regular,3,25464
+49,Electronics,Middle,3,24050
+50,Electronics,Luxury,3,21194
+51,Health,Regular,3,17805
+52,Health,Middle,3,28352
+53,Health,Luxury,3,21445
+54,Home & Kitchen,Regular,3,26541
+55,Home & Kitchen,Middle,3,18088
+56,Home & Kitchen,Luxury,3,18038
+57,Sports,Regular,3,21431
+58,Sports,Middle,3,32886
+59,Sports,Luxury,3,20792
+60,Toys,Regular,3,23707
+61,Toys,Middle,3,28793
+62,Toys,Luxury,3,24359
+63,Books,Regular,4,20495
+64,Books,Middle,4,33623
+65,Books,Luxury,4,20581
+66,Clothing,Regular,4,24847
+67,Clothing,Middle,4,26288
+68,Clothing,Luxury,4,18953
+69,Electronics,Regular,4,25352
+70,Electronics,Middle,4,25602
+71,Electronics,Luxury,4,22204
+72,Health,Regular,4,20736
+73,Health,Middle,4,27769
+74,Health,Luxury,4,24420
+75,Home & Kitchen,Regular,4,19303
+76,Home & Kitchen,Middle,4,28849
+77,Home & Kitchen,Luxury,4,17236
+78,Sports,Regular,4,20737
+79,Sports,Middle,4,32579
+80,Sports,Luxury,4,20971
+81,Toys,Regular,4,20512
+82,Toys,Middle,4,29944
+83,Toys,Luxury,4,22822
+84,Books,Regular,5,20952
+85,Books,Middle,5,31641
+86,Books,Luxury,5,26458
+87,Clothing,Regular,5,21801
+88,Clothing,Middle,5,23168
+89,Clothing,Luxury,5,16674
+90,Electronics,Regular,5,26858
+91,Electronics,Middle,5,26850
+92,Electronics,Luxury,5,18461
+93,Health,Regular,5,19244
+94,Health,Middle,5,25905
+95,Health,Luxury,5,24029
+96,Home & Kitchen,Regular,5,21493
+97,Home & Kitchen,Middle,5,22400
+98,Home & Kitchen,Luxury,5,15873
+99,Sports,Regular,5,18706
+100,Sports,Middle,5,31299
+101,Sports,Luxury,5,23462
+102,Toys,Regular,5,22941
+103,Toys,Middle,5,26691
+104,Toys,Luxury,5,22288
+105,Books,Regular,6,23721
+106,Books,Middle,6,31786
+107,Books,Luxury,6,21137
+108,Clothing,Regular,6,24581
+109,Clothing,Middle,6,23092
+110,Clothing,Luxury,6,15450
+111,Electronics,Regular,6,24568
+112,Electronics,Middle,6,26589
+113,Electronics,Luxury,6,18903
+114,Health,Regular,6,18800
+115,Health,Middle,6,25103
+116,Health,Luxury,6,20023
+117,Home & Kitchen,Regular,6,23384
+118,Home & Kitchen,Middle,6,25443
+119,Home & Kitchen,Luxury,6,14342
+120,Sports,Regular,6,20847
+121,Sports,Middle,6,34709
+122,Sports,Luxury,6,20085
+123,Toys,Regular,6,24106
+124,Toys,Middle,6,33386
+125,Toys,Luxury,6,21598
+126,Books,Regular,7,21871
+127,Books,Middle,7,32685
+128,Books,Luxury,7,24558
+129,Clothing,Regular,7,23245
+130,Clothing,Middle,7,28451
+131,Clothing,Luxury,7,14409
+132,Electronics,Regular,7,25237
+133,Electronics,Middle,7,27246
+134,Electronics,Luxury,7,19740
+135,Health,Regular,7,19665
+136,Health,Middle,7,30177
+137,Health,Luxury,7,25414
+138,Home & Kitchen,Regular,7,21910
+139,Home & Kitchen,Middle,7,21684
+140,Home & Kitchen,Luxury,7,16535
+141,Sports,Regular,7,24539
+142,Sports,Middle,7,32576
+143,Sports,Luxury,7,19967
+144,Toys,Regular,7,25621
+145,Toys,Middle,7,27891
+146,Toys,Luxury,7,23590
+147,Books,Regular,8,25940
+148,Books,Middle,8,29105
+149,Books,Luxury,8,23063
+150,Clothing,Regular,8,28010
+151,Clothing,Middle,8,29334
+152,Clothing,Luxury,8,17078
+153,Electronics,Regular,8,23347
+154,Electronics,Middle,8,24195
+155,Electronics,Luxury,8,18212
+156,Health,Regular,8,18228
+157,Health,Middle,8,27885
+158,Health,Luxury,8,23013
+159,Home & Kitchen,Regular,8,20354
+160,Home & Kitchen,Middle,8,25822
+161,Home & Kitchen,Luxury,8,18866
+162,Sports,Regular,8,23552
+163,Sports,Middle,8,31369
+164,Sports,Luxury,8,18991
+165,Toys,Regular,8,23929
+166,Toys,Middle,8,30841
+167,Toys,Luxury,8,23435
+168,Books,Regular,9,22327
+169,Books,Middle,9,33172
+170,Books,Luxury,9,21712
+171,Clothing,Regular,9,27042
+172,Clothing,Middle,9,30068
+173,Clothing,Luxury,9,15565
+174,Electronics,Regular,9,23247
+175,Electronics,Middle,9,26873
+176,Electronics,Luxury,9,19794
+177,Health,Regular,9,17626
+178,Health,Middle,9,26976
+179,Health,Luxury,9,19979
+180,Home & Kitchen,Regular,9,20512
+181,Home & Kitchen,Middle,9,21292
+182,Home & Kitchen,Luxury,9,16331
+183,Sports,Regular,9,21946
+184,Sports,Middle,9,32729
+185,Sports,Luxury,9,24534
+186,Toys,Regular,9,20629
+187,Toys,Middle,9,28267
+188,Toys,Luxury,9,21313
+189,Books,Regular,10,22285
+190,Books,Middle,10,35160
+191,Books,Luxury,10,26059
+192,Clothing,Regular,10,26076
+193,Clothing,Middle,10,24383
+194,Clothing,Luxury,10,18347
+195,Electronics,Regular,10,25308
+196,Electronics,Middle,10,22986
+197,Electronics,Luxury,10,21854
+198,Health,Regular,10,17337
+199,Health,Middle,10,30317
+200,Health,Luxury,10,24959
+201,Home & Kitchen,Regular,10,23238
+202,Home & Kitchen,Middle,10,23835
+203,Home & Kitchen,Luxury,10,17803
+204,Sports,Regular,10,21607
+205,Sports,Middle,10,32439
+206,Sports,Luxury,10,26141
+207,Toys,Regular,10,25103
+208,Toys,Middle,10,26285
+209,Toys,Luxury,10,23276
+210,Books,Regular,11,20974
+211,Books,Middle,11,33950
+212,Books,Luxury,11,21633
+213,Clothing,Regular,11,27912
+214,Clothing,Middle,11,28185
+215,Clothing,Luxury,11,15586
+216,Electronics,Regular,11,22377
+217,Electronics,Middle,11,26177
+218,Electronics,Luxury,11,19594
+219,Health,Regular,11,19234
+220,Health,Middle,11,28211
+221,Health,Luxury,11,25055
+222,Home & Kitchen,Regular,11,23169
+223,Home & Kitchen,Middle,11,24628
+224,Home & Kitchen,Luxury,11,18484
+225,Sports,Regular,11,18987
+226,Sports,Middle,11,32631
+227,Sports,Luxury,11,22652
+228,Toys,Regular,11,24813
+229,Toys,Middle,11,25654
+230,Toys,Luxury,11,25932
+231,Books,Regular,12,22970
+232,Books,Middle,12,31434
+233,Books,Luxury,12,23928
+234,Clothing,Regular,12,24203
+235,Clothing,Middle,12,29381
+236,Clothing,Luxury,12,18734
+237,Electronics,Regular,12,21911
+238,Electronics,Middle,12,23269
+239,Electronics,Luxury,12,18839
+240,Health,Regular,12,20812
+241,Health,Middle,12,28821
+242,Health,Luxury,12,21998
+243,Home & Kitchen,Regular,12,19685
+244,Home & Kitchen,Middle,12,26393
+245,Home & Kitchen,Luxury,12,15514
+246,Sports,Regular,12,19574
+247,Sports,Middle,12,30001
+248,Sports,Luxury,12,23651
+249,Toys,Regular,12,24563
+250,Toys,Middle,12,28165
+251,Toys,Luxury,12,26540
